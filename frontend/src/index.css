@@ -1,0 +1,208 @@
+*,
+*::after,
+*::before {
+	box-sizing: border-box;
+}
+
+:root {
+	font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+	line-height: 1.5;
+	font-weight: 400;
+
+	color-scheme: light dark;
+	color: rgba(255, 255, 255, 0.87);
+	background-color: #242424;
+
+	font-synthesis: none;
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-text-size-adjust: 100%;
+
+	--bug-color: #6d7815;
+	--dark-color: #49392f;
+	--dragon-color: #4924a1;
+	--electric-color: #a1871f;
+	--fairy-color: #9b6470;
+	--fighting-color: #7d1f1a;
+	--fire-color: #9c531f;
+	--flying-color: #6d5e9c;
+	--ghost-color: #493963;
+	--grass-color: #4e8234;
+	--ground-color: #927d44;
+	--ice-color: #638d8d;
+	--normal-color: #6d6d4e;
+	--poison-color: #682a68;
+	--psychic-color: #a13959;
+	--rock-color: #786824;
+	--steel-color: #787887;
+	--water-color: #445e9c;
+}
+div.bug,
+button.bug {
+	background-color: var(--bug-color);
+}
+div.dark,
+button.dark {
+	background-color: var(--dark-color);
+}
+div.dragon,
+button.dragon {
+	background-color: var(--dragon-color);
+}
+div.electric,
+button.electric {
+	background-color: var(--electric-color);
+}
+div.fairy,
+button.fairy {
+	background-color: var(--fairy-color);
+}
+div.fighting,
+button.fighting {
+	background-color: var(--fighting-color);
+}
+div.fire,
+button.fire {
+	background-color: var(--fire-color);
+}
+div.flying,
+button.flying {
+	background-color: var(--flying-color);
+}
+div.ghost,
+button.ghost {
+	background-color: var(--ghost-color);
+}
+div.grass,
+button.grass {
+	background-color: var(--grass-color);
+}
+div.ground,
+button.ground {
+	background-color: var(--ground-color);
+}
+div.ice,
+button.ice {
+	background-color: var(--ice-color);
+}
+div.normal,
+button.normal {
+	background-color: var(--normal-color);
+}
+div.poison,
+button.poison {
+	background-color: var(--poison-color);
+}
+div.psychic,
+button.psychic {
+	background-color: var(--psychic-color);
+}
+div.rock,
+button.rock {
+	background-color: var(--rock-color);
+}
+div.steel,
+button.steel {
+	background-color: var(--steel-color);
+}
+div.water,
+button.water {
+	background-color: var(--water-color);
+}
+
+div[role="button"].bug:hover,
+button.bug:hover {
+	opacity: 0.8;
+	background-color: var(--bug-color);
+}
+div[role="button"].dark:hover,
+button.dark:hover {
+	opacity: 0.8;
+	background-color: var(--dark-color);
+}
+div[role="button"].dragon:hover,
+button.dragon:hover {
+	opacity: 0.8;
+	background-color: var(--dragon-color);
+}
+div[role="button"].electric:hover,
+button.electric:hover {
+	opacity: 0.8;
+	background-color: var(--electric-color);
+}
+div[role="button"].fairy:hover,
+button.fairy:hover {
+	opacity: 0.8;
+	background-color: var(--fairy-color);
+}
+div[role="button"].fighting:hover,
+button.fighting:hover {
+	opacity: 0.8;
+	background-color: var(--fighting-color);
+}
+div[role="button"].fire:hover,
+button.fire:hover {
+	opacity: 0.8;
+	background-color: var(--fire-color);
+}
+div[role="button"].flying:hover,
+button.flying:hover {
+	opacity: 0.8;
+	background-color: var(--flying-color);
+}
+div[role="button"].ghost:hover,
+button.ghost:hover {
+	opacity: 0.8;
+	background-color: var(--ghost-color);
+}
+div[role="button"].grass:hover,
+button.grass:hover {
+	opacity: 0.8;
+	background-color: var(--grass-color);
+}
+div[role="button"].ground:hover,
+button.ground:hover {
+	opacity: 0.8;
+	background-color: var(--ground-color);
+}
+div[role="button"].ice:hover,
+button.ice:hover {
+	opacity: 0.8;
+	background-color: var(--ice-color);
+}
+div[role="button"].normal:hover,
+button.normal:hover {
+	opacity: 0.8;
+	background-color: var(--normal-color);
+}
+div[role="button"].poison:hover,
+button.poison:hover {
+	opacity: 0.8;
+	background-color: var(--poison-color);
+}
+div[role="button"].psychic:hover,
+button.psychic:hover {
+	opacity: 0.8;
+	background-color: var(--psychic-color);
+}
+div[role="button"].rock:hover,
+button.rock:hover {
+	opacity: 0.8;
+	background-color: var(--rock-color);
+}
+div[role="button"].steel:hover,
+button.steel:hover {
+	opacity: 0.8;
+	background-color: var(--steel-color);
+}
+div[role="button"].water:hover,
+button.water:hover {
+	opacity: 0.8;
+	background-color: var(--water-color);
+}
+
+body {
+	margin: 0;
+	min-height: 100vh;
+}
