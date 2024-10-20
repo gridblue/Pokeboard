@@ -64,5 +64,5 @@ Welcome to the Pokémon Dashboard project! This dashboard allows users to compar
 > Contact
 - For any questions or suggestions, feel free to reach out:
 
-Email: tejussrao.work@gmail.com
-GitHub: gridblue
+> Email: tejussrao.work@gmail.com
+> GitHub: gridblue
