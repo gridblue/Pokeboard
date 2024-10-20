@@ -31,12 +31,6 @@ Welcome to the Pokémon Dashboard project! This dashboard allows users to compar
 - git clone https://github.com/gridblue/pokemon-dashboard.git
 - cd pokemon-dashboard
 
-> Install dependencies:
-- bash
-- Copy code
-- npm install
-- Set up environment variables:
-
 > Create a .env file and add the following:
 - makefile
 - Copy code
@@ -54,20 +48,21 @@ Welcome to the Pokémon Dashboard project! This dashboard allows users to compar
 - Open your browser and navigate to http://localhost:3000.
 
 > Usage
-+ Search for Pokémon: Use the search bar to find Pokémon by name or Pokédex number.
-+ Compare Pokémon Stats: Select up to 3 Pokémon to compare their stats.
-+ Visualize: View stats as bar charts, radar charts, or line graphs.
-+ Filter by Type: Filter Pokémon by types to narrow down your comparisons.
+- Search for Pokémon: Use the search bar to find Pokémon by name or Pokédex number.
+- Compare Pokémon Stats: Select up to 3 Pokémon to compare their stats.
+- Visualize: View stats as bar charts, radar charts, or line graphs.
+- Filter by Type: Filter Pokémon by types to narrow down your comparisons.
 
 > Contributing
 - We welcome contributions! To contribute:
-+ Fork the repository.
-+ Create a new feature branch.
-+ Commit your changes.
-+ Push the branch and open a pull request.
-+ Please make sure to update tests as appropriate.
+- Fork the repository.
+- Create a new feature branch.
+- Commit your changes.
+- Push the branch and open a pull request.
+- Please make sure to update tests as appropriate.
 
 > Contact
 - For any questions or suggestions, feel free to reach out:
+
 Email: tejussrao.work@gmail.com
 GitHub: gridblue
