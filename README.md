@@ -51,7 +51,7 @@ Welcome to the Pokémon Dashboard project! This dashboard allows users to compar
 - npm run dev
 
 > Open the app:
-Open your browser and navigate to http://localhost:3000.
+- Open your browser and navigate to http://localhost:3000.
 
 > Usage
 + Search for Pokémon: Use the search bar to find Pokémon by name or Pokédex number.
@@ -60,7 +60,7 @@ Open your browser and navigate to http://localhost:3000.
 + Filter by Type: Filter Pokémon by types to narrow down your comparisons.
 
 > Contributing
-We welcome contributions! To contribute:
+- We welcome contributions! To contribute:
 + Fork the repository.
 + Create a new feature branch.
 + Commit your changes.
@@ -68,6 +68,6 @@ We welcome contributions! To contribute:
 + Please make sure to update tests as appropriate.
 
 > Contact
-For any questions or suggestions, feel free to reach out:
+- For any questions or suggestions, feel free to reach out:
 Email: tejussrao.work@gmail.com
 GitHub: gridblue
