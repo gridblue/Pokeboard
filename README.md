@@ -1,5 +1,7 @@
-Pokémon Dashboard
-Welcome to the Pokémon Dashboard project! This dashboard allows users to compare and visualize the stats of different Pokémon, providing a powerful interface for fans and data enthusiasts to explore Pokémon statistics interactively.
+### Pokémon Dashboard
+
+Welcome to the Pokémon Dashboard project! This dashboard allows users to compare and visualize the stats of different Pokémon, 
+providing a powerful interface for fans and data enthusiasts to explore Pokémon statistics interactively.
 
 > Features
 + Stat Comparison: Select multiple Pokémon and compare their base stats (Attack, Defense, Speed, HP, etc.) side by side.
